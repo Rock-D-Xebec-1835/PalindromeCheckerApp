@@ -11,7 +11,7 @@ target/
 
 # Java
 *.class
-.module-info
+**/module-info.java
 
 # Logs
 *.log
