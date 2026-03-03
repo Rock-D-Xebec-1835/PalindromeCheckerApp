@@ -4,12 +4,14 @@
 .project
 .classpath
 
+
 # Compiled output
 bin/
 target/
 
 # Java
 *.class
+.module-info
 
 # Logs
 *.log
